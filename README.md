@@ -1,9 +1,11 @@
-# Spring Data Demo
-![architecture](doc/architecture.svg)
+# Spring training - Bike Shop and Repair
+Bike maintenance and shop. The app provides the bike shop the possibility to manage bike maintenance jobs and provides the better management of the bike parts.
 
 ### Key technologies 
-* Spring data
-* JPA / Hibernate / ORM
-* Flyway
-* Test Containers for IT testing - full stack testing 
-* H2 database for testing - the old way :)
+* springboot aplikacia (najlepsie java11)
+* REST API - swagger dokumentacia
+* Data  persistence in Relational Database
+* Junit tests, integration  tests
+* Dockerfile
+* docker-compose file   
+* simple project documentation (README.md)
